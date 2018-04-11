@@ -28,6 +28,7 @@ public class InterfaceEx {
 		// TODO Auto-generated method stub
 
 		System.out.println("ok");
+		System.out.println("mag zalach ki");
 	}
 
 }
