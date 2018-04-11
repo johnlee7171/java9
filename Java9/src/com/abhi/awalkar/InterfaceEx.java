@@ -29,6 +29,7 @@ public class InterfaceEx {
 
 		System.out.println("ok");
 		System.out.println("mag zalach ki");
+		System.out.println("lai vand");
 	}
 
 }
